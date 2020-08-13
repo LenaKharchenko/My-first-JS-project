@@ -1,0 +1,60 @@
+
+p {
+    background-color: rgb(255, 255, 255);
+    padding: 3px;
+    max-width: 140px;
+    color: black;
+    border-radius: 2px;
+    margin-left: 25px;
+    margin-right: 20px;
+}
+
+body {
+
+    background-color: rgb(231, 180, 39);
+}
+
+.menu {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+
+    padding: 0%;
+    width: 200px;
+}
+
+button {
+    border-style: groove;
+    border-radius: 10px;
+    background-color: rgb(187, 82, 225);
+
+    color: rgb(255, 255, 255);
+}
+
+#area {
+    background-color: rgb(187, 82, 225);
+    position: absolute;
+    height: 50px;
+    width: 200px;
+    top: 75px;
+    right: 10px;
+    border-radius: 10px;
+    padding: 3px;
+    color: rgb(255, 255, 255);
+}
+
+#mouse_coords_on_click {
+    color: rgb(255, 255, 255);
+    background-color: rgb(187, 82, 225);
+    width: 200px;
+    position: absolute;
+    top: 150px;
+    right: 10px;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+span {
+    margin-left: 20px;
+    margin-right: 20px;
+}
